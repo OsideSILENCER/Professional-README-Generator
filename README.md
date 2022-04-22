@@ -1,5 +1,6 @@
 # Professional-README-Generator
 
+<<<<<<< HEAD
 ## Description
  This is a README generator server.
 
@@ -21,3 +22,6 @@ In order to use this generator simply enter in your answers into the input and i
 ## Credits
 
 N/A
+=======
+![Screenshot 2022-04-21 231329](https://user-images.githubusercontent.com/101435334/164614565-26294fd0-1029-4c12-93d5-f4185d142d20.jpg)
+>>>>>>> 8ceeee1e3fd4a22eca596795b821b7ae92c05b65
